@@ -10,7 +10,6 @@ class Point {
   }
 }
 
-
 // We don't need the bottom anymore.
 let drawPoint = (point: Point) => {
   // expects x and y as numbers
@@ -24,3 +23,5 @@ drawPoint({
   x: 1,
   y: 2,
 })
+
+// testing
